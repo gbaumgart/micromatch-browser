@@ -2382,7 +2382,7 @@ var POSIX = {
   space: ' \\t\\r\\n\\v\\f',
   upper: 'A-Z',
   word:  'A-Za-z0-9_',
-  xdigit: 'A-Fa-f0-9',
+  xdigit: 'A-Fa-f0-9'
 };
 
 /**
